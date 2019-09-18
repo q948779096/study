@@ -1,0 +1,18 @@
+2019年9月18日16:30:50
+参与人:王帅杰
+1.一个完整的JavaScript结构包括哪些部分?
+答:1.ECMAScripe:为不同的宿主环境提供核心的脚本能力
+   2.BOM(浏览对象模型):提供了独立于内容而在浏览器窗口之间进行交互的对象和方法
+   3.DOM(文档对象模型):规定了访问HTML 和XML 的应用程序接口
+
+2.JavaScript脚本分成哪几种?
+答: <script></script>
+    <script src=""></script>
+3.JavaScript错误有哪几种?特点是什么?
+答: 
+      语法错误：如果出现语法错误，直接报错  
+      执行错误： 执行中出现错误，终止执行，不再执行
+
+4.JavaScript的数据类型包括什么?分别写出.
+答:    简单数据类型：string number boolean  Undefined  null
+       复杂数据类型：对象
